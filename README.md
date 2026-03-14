@@ -10,7 +10,7 @@ Site **responsive tasarım** kullanılarak geliştirilmiştir ve mobil, tablet v
 
 ## 🎥 Proje Önizleme
 
-![Proje Demo](images/demo.gif)
+![Proje Demo](img/demo.gif)
 
 ## ✨ Özellikler
 
